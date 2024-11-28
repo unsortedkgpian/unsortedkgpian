@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aditya Kumar and I'm a Developer, from India</p>
+<p align="left">My name is Aditya Kumar and I'm a Developer</p>
 
 ###
 
