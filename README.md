@@ -80,7 +80,7 @@
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="typescript" width="40" height="40"/> </a>
     </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unsortedkgpian&show_icons=true&remove=python&layout=compact" alt="kgpian" /></p>
+
   
 </div>
 
