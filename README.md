@@ -21,7 +21,7 @@
 <div align="left">
   
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c" width="40" height="40"/>
+ <img src="https://camo.githubusercontent.com/ceb295afc131778d7a9bcf9d9e9f5d5d2ab65dcd5bd4f4caf16a085b70c60731/68747470733a2f2f747365332e6d6d2e62696e672e6e65742f74683f69643d4f49502e7276756a594b4f546d2d2d5654334b545a775633786748614861267069643d417069" alt="c" width="40" height="40"/>
  </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
