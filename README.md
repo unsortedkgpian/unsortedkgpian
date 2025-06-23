@@ -1,5 +1,5 @@
 # Aditya Kumar
-**Full-Stack Developer | Backend Specialist | Software Engineer**
+**Software Engineer | Full-Stack Developer | Backend Specialist**
 
 ## Professional Summary
 Software engineer with 2+ years of experience developing full-stack solutions with backend specialization. Proven expertise in designing and implementing scalable systems using modern technology stacks. Focused on building robust, enterprise-grade applications through systematic problem-solving and architectural excellence.
@@ -90,10 +90,10 @@ Software engineer with 2+ years of experience developing full-stack solutions wi
 
 ## Professional Connections
 <div align="center" style="margin-top: 20px;">
-  <a href="https://linkedin.com/in/your-profile" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/aditya-kumar-b7b79b22b/" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com" style="margin: 0 10px;">
+  <a href="mailto:theadityakumar2810@gmail.com" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/unsortedkgpian" style="margin: 0 10px;">
