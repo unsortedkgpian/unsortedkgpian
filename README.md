@@ -68,20 +68,6 @@
   <img src="https://streak-stats.demolab.com/?user=unsortedkgpian&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unsortedkgpian/unsortedkgpian/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unsortedkgpian/unsortedkgpian/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/unsortedkgpian/unsortedkgpian/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ## 💼 What I'm Working On
 
 - Learning **Rust** and exploring systems programming
