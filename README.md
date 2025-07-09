@@ -81,18 +81,7 @@
 
 <div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-kumar-b7b79b22b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:adi.bytes@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/unsortedkgpian" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" />
-  </a>
+<p align="center"><a href="https://www.linkedin.com/in/aditya-kumar-b7b79b22b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:adi.bytes@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/unsortedkgpian" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" /></a>
 </p>
 
 <br>
