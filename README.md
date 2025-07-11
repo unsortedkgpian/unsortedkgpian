@@ -63,10 +63,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unsortedkgpian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsortedkgpian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=makefile&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
 </div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=unsortedkgpian&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=unsortedkgpian&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
 </div>
+
 
 ## 💼 What I'm Working On
 
