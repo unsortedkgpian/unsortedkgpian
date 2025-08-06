@@ -13,7 +13,7 @@
 <div align="center" style="margin: 30px 0;">
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60px" width="60px" alt="C" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" height="60px" width="60px" alt="C" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="60px" width="60px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="60" width="60"/>
   <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="Rust" width="60" height="60"/>
