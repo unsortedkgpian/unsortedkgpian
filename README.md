@@ -60,11 +60,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unsortedkgpian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsortedkgpian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=makefile&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unsortedbytes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsortedbytes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=makefile&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=unsortedkgpian&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=unsortedbytes&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
 </div>
 
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<p align="center"><a href="https://www.linkedin.com/in/aditya-kumar-b7b79b22b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:adi.bytes@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/unsortedkgpian" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" /></a>
+<p align="center"><a href="https://www.linkedin.com/in/aditya-kumar-b7b79b22b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:adi.bytes@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/unsortedbytes" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" /></a>
 </p>
 
 <br>
